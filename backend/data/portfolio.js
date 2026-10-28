@@ -205,7 +205,7 @@ const projects = [
     implementation:
       "The documented pipeline is dataset loading, image upload, graph construction, similarity comparison, and verdict generation. For the classification, image regions become graph nodes and their colour similarity determines edges; the nearest database records vote on the result. The application also demonstrates Dijkstra's algorithm to find a lowest-cost path between selected nodes, Kruskal's algorithm to build a minimum spanning tree, and breadth-first search to count connected components. The landing page notes custom HashMap, LinkedList, Stack, Queue, and Heap data structures. The desktop app runs offline and requires Java 17+ and JavaFX 21; the published JAR was tested with Java 25.",
     image: "/img/FakeMedDetector.png",
-    link: "https://github.com/Tumelo777-S/Fake_Medication_Detector",
+    link: "https://fake-medicine-detector-0y9x.onrender.com",
     tech: [
       "Java",
       "JavaFX 21",

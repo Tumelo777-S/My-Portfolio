@@ -464,6 +464,12 @@
   color: var(--text-muted);
 }
 
+.cv-link {
+  display: inline-block;
+  margin-top: 8px;
+  text-decoration: none;
+}
+
 /* Skills */
 .skills__grid {
   display: grid;

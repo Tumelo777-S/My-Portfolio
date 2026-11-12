@@ -45,6 +45,9 @@ export default function About({ about, profile }) {
               </li>
             </ul>
           </div>
+          <a className="btn cv-link" href="/My_CV.pdf" download="My_CV.pdf">
+            Download my CV
+          </a>
         </div>
       </div>
     </section>

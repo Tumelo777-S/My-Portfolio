@@ -5,6 +5,10 @@ export default function Resume({ education, experience, achievements }) {
         <h2>Resume</h2>
       </div>
 
+      <a className="btn cv-link" href="/My_CV.pdf" download="My_CV.pdf">
+        Download full CV
+      </a>
+
       <div className="resume__grid">
         <div>
           <h3 className="resume__heading">Education</h3>
